@@ -1,5 +1,5 @@
 # Sistem Keuangan Pengelolaan Sampah
-## Desa Sambopinggir
+## Desa Sambopinggir Kec. Karangbinangun Kab. Lamongan
 
 Aplikasi web untuk mengelola keuangan iuran sampah, data pelanggan, tagihan bulanan, pembayaran, deposit pelanggan, pengeluaran, laporan, dan lokasi pelanggan.
 
