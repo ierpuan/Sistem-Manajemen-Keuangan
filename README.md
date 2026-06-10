@@ -1,4 +1,4 @@
-*Sorry, I only published the information, not the program.*
+*I just publish the information.*
 # Sistem Keuangan Pengelolaan Sampah
 ## Desa Sambopinggir Kec. Karangbinangun Kab. Lamongan
 
