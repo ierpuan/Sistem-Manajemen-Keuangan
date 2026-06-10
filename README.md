@@ -60,5 +60,6 @@ Pastikan sudah terinstall:
 
 Aplikasi memiliki jadwal otomatis untuk:
 
-- Generate tagihan setiap tanggal 1 pukul 00:00.
-- Update status tagihan setiap hari pukul 00:00.
+- Generate tagihan setiap -> tanggal 1 pukul 00:00.
+- Update status tagihan -> setiap hari pukul 00:00.
+- auto debit deposito -> setiap hari pukul 07:00. 
